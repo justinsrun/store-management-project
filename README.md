@@ -22,3 +22,5 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 ## Description
 
 Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console.
+
+I based my Store-Management-Project on a japanese restaurant. My store specializes in sushi and ramen because they are some of my favorite foods
